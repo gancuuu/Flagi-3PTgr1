@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flaga_quiz</string>
+    <string name="polecenie">wybierz kolor ktorego nie ma w fladze Polski</string>
+</resources>
